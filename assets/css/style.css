@@ -681,7 +681,7 @@ blockquote .quote-icon {
 }
 
 .bg--base {
-  background-color: #00DDCC !important;
+  background-color: #5A19D9 !important;
 }
 
 .text--primary {
@@ -12309,7 +12309,7 @@ div[class*=col]:nth-of-type(4n + 4) .process-item .process-icon-area .process-ic
   color: #fff;
 }
 .faq-wrapper .faq-item.open {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
 }
 .faq-wrapper .faq-item.open .faq-title {
   color: #fff;
