@@ -653,7 +653,7 @@ blockquote .quote-icon {
     [ ## color ]
 */
 .bg--primary {
-  background-color: #7367f0 !important;
+  background-color: #00DDCC !important;
 }
 
 .bg--secondary {
@@ -12309,7 +12309,7 @@ div[class*=col]:nth-of-type(4n + 4) .process-item .process-icon-area .process-ic
   color: #fff;
 }
 .faq-wrapper .faq-item.open {
-  background-color: #00DDCC;
+  background-color: #5A19D9;
 }
 .faq-wrapper .faq-item.open .faq-title {
   color: #fff;
