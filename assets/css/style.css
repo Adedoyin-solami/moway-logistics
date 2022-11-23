@@ -5836,7 +5836,7 @@ option {
   }
 }
 .banner-section .banner-area .banner-left-content .title {
-  color: #5A19D9;
+  color: #00DDCC;
   margin-bottom: 15px;
   text-transform: capitalize;
 }
@@ -6024,7 +6024,7 @@ option {
 
 .circle text {
   font-size: 10px;
-  color: #5A19D9;
+  color: #00DDCC;
   text-transform: uppercase;
   font-weight: bold;
 }
@@ -6112,7 +6112,7 @@ option {
 
 .breadcrumb li {
   display: inline-block;
-  color: #5A19D9;
+  color: #00DDCC;
   font-family: "Poppins", sans-serif;
 }
 
@@ -6132,7 +6132,7 @@ option {
   font-weight: 500;
   font-size: 14px;
   position: relative;
-  color: #5A19D9;
+  color: #00DDCC;
   z-index: 2;
 }
 @media only screen and (max-width: 991px) {
@@ -6145,7 +6145,7 @@ option {
   content: ">";
   font-family: "Poppins", sans-serif;
   font-weight: 500;
-  color: #5A19D9;
+  color: #00DDCC;
   font-size: 16px;
   left: 0;
   top: 1px;
@@ -6181,7 +6181,7 @@ option {
 }
 @media only screen and (max-width: 1499px) {
   .footer-section.two div[class*=col]:nth-of-type(4n + 4) .footer-widget .title::after {
-    background-color: #5A19D9;
+    background-color: #00DDCC;
   }
 }
 .footer-section.three {
@@ -6418,7 +6418,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   transition: all 0.3s;
 }
 .footer-list li a:hover {
-  color: #5A19D9;
+  color: #00DDCC;
   padding-left: 5px;
 }
 
@@ -6454,7 +6454,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   left: 0;
   width: 60px;
   height: 1px;
-  background-color: #5A19D9;
+  background-color: #00DDCC;
 }
 @media only screen and (max-width: 991px) {
   .footer-widget .title {
@@ -6481,7 +6481,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   border-radius: 4px;
 }
 .footer-widget.widget--style .footer-social li a:hover {
-  border: 1px solid #5A19D9;
+  border: 1px solid #00DDCC;
 }
 .footer-widget.widget-two {
   padding: 80px 0;
@@ -6512,7 +6512,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   transition: all 0.5s;
 }
 .download-list li:hover {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
 }
 
 .footer-social {
@@ -6523,9 +6523,9 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   color: #707070;
 }
 .footer-social.style-01 li a:hover, .footer-social.style-01 li a.active {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   color: #fff;
-  border: 1px solid #5A19D9;
+  border: 1px solid #00DDCC;
 }
 @media only screen and (max-width: 991px) {
   .footer-social {
@@ -6541,14 +6541,14 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   line-height: 30px;
   display: inline-block;
   text-align: center;
-  border: 1px solid #5A19D9;
+  border: 1px solid #00DDCC;
   border-radius: 50%;
-  color: #5A19D9;
+  color: #00DDCC;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 .footer-social li a:hover, .footer-social li a.active {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   color: #fff;
 }
 .footer-social li + li {
@@ -6562,9 +6562,9 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   color: #727272;
 }
 .footer-social.two li a:hover, .footer-social.two li a.active {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   color: #fff;
-  border: 1px solid #5A19D9;
+  border: 1px solid #00DDCC;
 }
 .footer-social.two li + li {
   margin-left: 10px;
@@ -6658,8 +6658,8 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   transition: all 0.5s;
 }
 .footer-subscribe-form.two button:hover, .footer-subscribe-form.two input[type=button]:hover, .footer-subscribe-form.two input[type=reset]:hover, .footer-subscribe-form.two input[type=submit]:hover {
-  background-color: #5A19D9;
-  border: 1px solid #5A19D9;
+  background-color: #00DDCC;
+  border: 1px solid #00DDCC;
 }
 .footer-subscribe-form.three input {
   border-radius: 6px;
@@ -6689,7 +6689,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   position: unset;
   width: 100%;
   height: auto;
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   color: #fff;
   border-radius: 6px;
   font-size: 16px;
@@ -6700,8 +6700,8 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   transition: all 0.5s;
 }
 .footer-subscribe-form.three button:hover, .footer-subscribe-form.three input[type=button]:hover, .footer-subscribe-form.three input[type=reset]:hover, .footer-subscribe-form.three input[type=submit]:hover {
-  background-color: #5A19D9;
-  border: 1px solid #5A19D9;
+  background-color: #00DDCC;
+  border: 1px solid #00DDCC;
 }
 .footer-subscribe-form input {
   padding-right: 70px;
@@ -6715,7 +6715,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   position: absolute;
   top: 10px;
   right: 10px;
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   border-radius: 5px;
   width: 39px;
   height: 39px;
@@ -6768,7 +6768,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   right: 0;
   width: 41%;
   height: 100%;
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   z-index: -1;
 }
 @media only screen and (max-width: 1499px) {
@@ -6948,7 +6948,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   z-index: -1;
   left: -36%;
   top: 0;
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   width: 136%;
   height: 100%;
   border-radius: 0px 6px 6px 0px;
@@ -7072,11 +7072,11 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
           box-shadow: 0 0 20px #D57BB9;
 }
 .team-section.three div[class*=col]:nth-of-type(9n + 9) .team-item .team-thumb {
-  background-color: #5B7CB7;
+  background-color: #00DDCC;
 }
 .team-section.three div[class*=col]:nth-of-type(9n + 9) .team-item .team-thumb:hover {
-  -webkit-box-shadow: 0 0 20px #5B7CB7;
-          box-shadow: 0 0 20px #5B7CB7;
+  -webkit-box-shadow: 0 0 20px #00DDCC;
+          box-shadow: 0 0 20px #00DDCC;
 }
 .team-section .team-element {
   position: absolute;
@@ -7170,11 +7170,11 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
           box-shadow: 0 0px 20px #A6EEF3;
 }
 .team-slider .swiper-slide:nth-child(3n-3) .team-thumb {
-  background-color: #E5D36B;
+  background-color: #00DDCC;
 }
 .team-slider .swiper-slide:nth-child(3n-3) .team-thumb:hover {
-  -webkit-box-shadow: 0 0 20px #E5D36B;
-          box-shadow: 0 0 20px #E5D36B;
+  -webkit-box-shadow: 0 0 20px #00DDCC;
+          box-shadow: 0 0 20px #00DDCC;
 }
 .team-slider.two .swiper-slide:nth-child(3n-1) .team-thumb {
   background-color: #D7A5F2;
@@ -7194,8 +7194,8 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   background-color: #E5D36B;
 }
 .team-slider.two .swiper-slide:nth-child(3n-3) .team-thumb:hover {
-  -webkit-box-shadow: 0 0 20px #E5D36B;
-          box-shadow: 0 0 20px #E5D36B;
+  -webkit-box-shadow: 0 0 20px #00DDCC;
+          box-shadow: 0 0 20px #00DDCC;
 }
 
 .team-item {
@@ -7272,14 +7272,14 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   line-height: 26px;
   display: inline-block;
   text-align: center;
-  border: 1px solid #5A19D9;
+  border: 1px solid #00DDCC;
   border-radius: 50%;
   color: #5A19D9;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 .team-item.details .team-content .team-social li a:hover {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   color: #fff;
 }
 .team-item.details .team-content .team-social li + li {
@@ -7337,7 +7337,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   text-align: center;
   border: 1px solid #5A19D9;
   border-radius: 50%;
-  color: #5A19D9;
+  color: #00DDCC;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -7357,7 +7357,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   transition: all 0.3s;
 }
 .team-content .title a:hover {
-  color: #5A19D9;
+  color: #00DDCC;
 }
 .team-content .sub-title {
   font-weight: 500;
@@ -7427,7 +7427,7 @@ div[class*=col]:nth-of-type(3n + 3) .footer-contact-list .link-title {
   display: none;
 }
 .team-tab .nav-tabs .nav-link.active {
-  background-color: #5A19D9;
+  background-color: #00DDCC;
   color: #fff;
 }
 
